@@ -5,7 +5,7 @@
 This is a social media API backend featuring users, thoughts, and reactions. It has the ability to create, delete, and modify all database entries. 
 
 ## Deployed Application
-[Deployed application part 1](https://drive.google.com/file/d/1xo-davJK9jV8BRjpmcjZkqORxbpOz3XY/view)
+[Deployed application part 1](https://drive.google.com/file/d/1xo-davJK9jV8BRjpmcjZkqORxbpOz3XY/view)<br/>
 [Deployed application part 2](https://drive.google.com/file/d/1CuQdXjhh7EEvvMxPC37MdTTc-txw9euQ/view)
 
 ## Installation
