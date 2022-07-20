@@ -5,7 +5,6 @@ const thoughtController = {
     // Retrieve all thoughts 
     getAllThoughts(req, res) {
         Thought.find({})
-            // .populate('reactionId')
             .then(dbThoughtData => res.json(dbThoughtData))
             .catch(err => {
                 console.log(err);
