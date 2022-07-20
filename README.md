@@ -8,6 +8,10 @@ This is a social media API backend featuring users, thoughts, and reactions. It 
 [Deployed application part 1](https://drive.google.com/file/d/1xo-davJK9jV8BRjpmcjZkqORxbpOz3XY/view)<br/>
 [Deployed application part 2](https://drive.google.com/file/d/1CuQdXjhh7EEvvMxPC37MdTTc-txw9euQ/view)
 
+## Screenshot 
+
+![ScreenShot](./images/screenshot.png?raw=true "Social-Network-API")
+
 ## Installation
 
 * Navigate to [https://github.com/DanielLiszka/Social-Network-API](https://github.com/DanielLiszka/Social-Network-API). 
